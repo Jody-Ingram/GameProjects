@@ -1,35 +1,71 @@
-# Stray Kids Face Match 🎴
+# GameProjects
 
-A lightweight browser-based Stray Kids matching game inspired by Super Mario Bros 3 memory game.
+A collection of personal game development projects, prototypes, and interactive experiments.
 
-Players flip cards and match each member’s name with the correct photo.
+This repository is where I build, test, and improve ideas across browser-based games, small gameplay concepts, utilities, and other game-related projects.
 
-## Features
+## Projects
 
-* Includes all eight Stray Kids members
-* Name-to-face matching gameplay
-* Full-group and quick-round modes
-* Move counter and timer
-* Locally saved best score
-* Hint/peek option
-* Sound effects and victory animation
-* Responsive design for desktop and mobile
-* Works offline in a single HTML file
+Each project is stored in its own folder and may include its own README with setup instructions, controls, screenshots, and development notes.
 
-## How to Play
+| Project | Description | Status |
+|---|---|---|
+| Add project name | Add a short description | In Development |
 
-1. Save `stray-kids-face-match.html`  to your local machine.
-2. Open `stray-kids-face-match.html` in Chrome, Edge, Firefox, or another modern browser.
-3. Select one photo card and one name card.
-4. Continue until every member has been matched.
+## Goals
 
-## Run Locally
+- Experiment with new game mechanics and ideas
+- Practice game development, programming, and UI design
+- Build small projects that are easy to share and play
+- Keep personal game-development work organized in one place
 
-No installation or web server is required.
+## Technologies
 
+Projects may use a variety of tools and technologies, including:
 
-## Disclaimer
+- HTML, CSS, and JavaScript
+- Python
+- Game engines and development frameworks
+- AI-assisted assets and development tools
 
-This is an unofficial, non-commercial fan project created for personal entertainment.
+## Running a Project
 
-Stray Kids, member names, photographs, and related trademarks belong to their respective owners.
+1. Open the folder for the project you want to run.
+2. Review its project-specific README, if available.
+3. Follow the included setup instructions.
+4. For simple browser games, open `index.html` in a web browser.
+
+Some browser-based projects may work best when served through a local web server.
+
+```bash
+python -m http.server 8000
+```
+
+Then open:
+
+```text
+http://localhost:8000
+```
+
+## Repository Structure
+
+```text
+GameProjects/
+├── project-name/
+│   ├── index.html
+│   ├── assets/
+│   └── README.md
+└── README.md
+```
+
+## Development Status
+
+These are personal projects and may be unfinished, experimental, or updated over time.
+
+## Author
+
+Created and maintained by **Jody Ingram**.
+
+## License
+
+Unless otherwise stated within an individual project folder, the projects in this repository are for personal and educational use.
