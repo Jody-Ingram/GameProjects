@@ -1,6 +1,6 @@
 # Stray Kids Face Match 🎴
 
-A lightweight browser-based matching game inspired by Stray Kids.
+A lightweight browser-based Stray Kids matching game inspired by Super Mario Bros 3 memory game.
 
 Players flip cards and match each member’s name with the correct photo.
 
@@ -18,7 +18,7 @@ Players flip cards and match each member’s name with the correct photo.
 
 ## How to Play
 
-1. Download or clone this repository.
+1. Save `stray-kids-face-match.html`  to your local machine.
 2. Open `stray-kids-face-match.html` in Chrome, Edge, Firefox, or another modern browser.
 3. Select one photo card and one name card.
 4. Continue until every member has been matched.
@@ -27,12 +27,6 @@ Players flip cards and match each member’s name with the correct photo.
 
 No installation or web server is required.
 
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
-```
-
-Then double-click `stray-kids-face-match.html`.
 
 ## Disclaimer
 
