@@ -1,4 +1,4 @@
-# GameProjects
+# Game Dev Projects
 
 A collection of personal game development projects, prototypes, and interactive experiments.
 
