@@ -8,9 +8,6 @@ This repository is where I build, test, and improve ideas across browser-based g
 
 Each project is stored in its own folder and may include its own README with setup instructions, controls, screenshots, and development notes.
 
-| Project | Description | Status |
-|---|---|---|
-| Add project name | Add a short description | In Development |
 
 ## Goals
 
@@ -37,26 +34,7 @@ Projects may use a variety of tools and technologies, including:
 
 Some browser-based projects may work best when served through a local web server.
 
-```bash
-python -m http.server 8000
-```
 
-Then open:
-
-```text
-http://localhost:8000
-```
-
-## Repository Structure
-
-```text
-GameProjects/
-├── project-name/
-│   ├── index.html
-│   ├── assets/
-│   └── README.md
-└── README.md
-```
 
 ## Development Status
 
